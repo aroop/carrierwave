@@ -22,8 +22,8 @@ Gem::Specification.new do |s|
   s.rubygems_version = %q{1.3.5}
   s.specification_version = 3
 
-  s.add_dependency "activesupport", ">= 3.2.0"
-  s.add_dependency "activemodel", ">= 3.2.0"
+  s.add_dependency "activesupport", ">= 3.1.0"
+  s.add_dependency "activemodel", ">= 3.1.0"
 
   s.add_development_dependency "mysql2"
   s.add_development_dependency "rails", ">= 3.2.0"
